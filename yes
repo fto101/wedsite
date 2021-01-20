@@ -1,0 +1,155 @@
+<html>
+<head>
+<title>Trinbarjam Elections Commission</title>
+
+<body>
+<style>
+body {
+  background: #f5f5f5;
+
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+</style>
+<FONT COLOR=BLACK>
+<hr size="8" width="90%" color="black">  
+<P><H1 style="text-align:center;"><B><I> Trinbarjam Elections Commision</I></B></H1> </P> </FONT>
+<P style="text-align:center;"><FONT SIZE=5><I> Your vote matters </I></FONT>
+<P><H1 style="text-align:center;"><img src="logo.png" alt="My test image" ></H1></P>
+<hr size="8" width="90%" color="black">  
+</body>
+<body>
+
+
+<P>The <B>Trinbarjam Election Commission</B> is responsible for conducting national elections from an unbiased point. So
+no unfair advantage is given to either side. </P>
+<P>The Commission is also incharge of:
+<ul>
+  <li>Registering eligble electors.</li>
+  <li>Verifying eliglbe electors.</li>
+  <li>Approving political parties eligible to receive state funding.</li>
+  <li>Administering electoral funding and financial disclosure requirements.</li>
+</ul>
+</P>
+
+
+<P> <a href=https://youtu.be/dQw4w9WgXcQ> Past election data.<a/> </P>
+<P>
+Contact Us Via:
+<ul>
+  <li>Email: TrinbarjamElt@hotmail.com </li>
+  <li>Phone: 800-4TEC </li>
+  
+</ul>
+</P>
+
+
+<P><H3><B><U> ELECTIONS DATA</U></B></H3> </P>
+
+<table style="width:100%">
+
+<tr>
+<th>Party</th>
+<th>Total Votes Received</th>
+<th>Percentage Votes Cast</th>
+</tr>
+
+<tr>
+<th>DAP</th>
+<th>10663</th>
+<th>82.02%</th>
+</tr>
+
+<tr>
+<th>PDR</th>
+<th>17938</th>
+<th>82.45%</th>
+</tr>
+
+<tr>
+<th>UPM</th>
+<th>8504</th>
+<th>81.89%</th>
+</tr>
+
+<tr>
+<th>WNA</th>
+<th>14127</th>
+<th>81.76%</th>
+</tr>
+
+<tr>
+<th>Total Votes Cast</th>
+<th>51231</th>
+<th>82.04%</th>
+</tr>
+
+<tr>
+<th>Constituency</th>
+<th>No. of Voters</th>
+<th>Votes Cast</th>
+</tr>
+
+<tr>
+<th>North</th>
+<th>31018</th>
+<th>23263.5</th>
+</tr>
+
+
+<tr>
+<th>South</th>
+<th>34204</th>
+<th>29073.4</th>
+</tr>
+
+<tr>
+<th>East</th>
+<th>32712</th>
+<th>29440.8</th>
+</tr>
+
+
+<tr>
+<th>West</th>
+<th>38503</th>
+<th>30802.4</th>
+</tr>
+
+
+<tr>
+<th>North West</th>
+<th>35278</th>
+<th>26458.5</th>
+</tr>
+
+<tr>
+<th>South West</th>
+<th>31142</th>
+<th>27404.9</th
+</tr>
+
+<tr>
+<th>East Central</th>
+<th>35408</th>
+<th>29034.6</th>
+</tr>
+
+
+</body>
+</html>
+
